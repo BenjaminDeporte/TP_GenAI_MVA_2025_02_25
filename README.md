@@ -1,0 +1,2 @@
+# TP_GenAI_MVA_2025_02_25
+TP Generative AI du 25 02 2025 - VAE, GAN, WGAN
