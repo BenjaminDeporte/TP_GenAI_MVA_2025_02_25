@@ -1,0 +1,14 @@
+name : GenAI
+channels :
+- defaults
+- conda-forge
+dependencies :
+- python
+- scikit-learn
+- pandas
+- matplotlib
+- seaborn
+- pytorch
+- numpy
+- ipykernel
+- jupyter
