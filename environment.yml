@@ -9,6 +9,7 @@ dependencies :
 - matplotlib
 - seaborn
 - pytorch
+- torchvision
 - numpy
 - ipykernel
 - jupyter
